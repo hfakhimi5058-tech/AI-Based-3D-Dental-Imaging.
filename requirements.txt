@@ -1,3 +1,4 @@
+
 numpy
 pandas
 matplotlib
@@ -6,3 +7,6 @@ SimpleITK
 torch
 nnunetv2
 timm
+streamlit
+nibabel
+plotly
